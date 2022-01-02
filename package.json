@@ -1,0 +1,20 @@
+{
+  "name": "obadakhalili",
+  "description": "",
+  "license": "MIT",
+  "scripts": {
+    "build:html": "mkdir --parent dist && resume export dist/index.html --theme",
+    "build:pdf": "resume export dist/resume.pdf --theme",
+    "serve": "resume serve --dir serve --port 8080 --theme",
+    "validate": "resume validate resume.json",
+    "format": "prettier --ignore-path .gitignore --write ."
+  },
+  "devDependencies": {
+    "jsonresume-theme-elegant": "^1.16.1",
+    "jsonresume-theme-even": "^0.16.1",
+    "jsonresume-theme-macchiato": "^1.1.0",
+    "jsonresume-theme-slickoverflow": "^0.0.2",
+    "prettier": "^2.5.1",
+    "resume-cli": "^3.0.5"
+  }
+}

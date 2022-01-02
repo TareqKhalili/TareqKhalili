@@ -1,0 +1,153 @@
+{
+  "basics": {
+    "name": "Obada Khalili",
+    "label": "Software Engineer at Foothill Solutions, and AI-CAP student at NNU",
+    "image": "https://media-exp1.licdn.com/dms/image/C4D03AQEiWizAJbxZpw/profile-displayphoto-shrink_800_800/0/1635307247132?e=1646870400&v=beta&t=2of9A_pT9uSCJKZm0RvY16tDo9FQxzgn-Cfxtbr-HDU",
+    "picture": "https://media-exp1.licdn.com/dms/image/C4D03AQEiWizAJbxZpw/profile-displayphoto-shrink_800_800/0/1635307247132?e=1646870400&v=beta&t=2of9A_pT9uSCJKZm0RvY16tDo9FQxzgn-Cfxtbr-HDU",
+    "location": {
+      "city": "Nablus",
+      "region": "Palestinian Territory"
+    },
+    "birthday": "26th of April, 2001",
+    "email": "obada.khalili@outlook.com",
+    "phone": "0562009944 / 0594553169",
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "obadakhalili",
+        "url": "http://github.com/obadakhalili"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "obadakhalili",
+        "url": "https://www.linkedin.com/in/obadakhalili/"
+      },
+      {
+        "network": "Twitter",
+        "username": "obadakhalili",
+        "url": "https://twitter.com/obadakhalili"
+      }
+    ],
+    "summary": "A full-time self-taught developer, and an AI student. I enjoy trying to perfectly engineer a program, automate tasks, build tools, and learn new things. I also maintain multiple open-source projects which can be found on my GitHub page"
+  },
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Full Professional Proficiency"
+    },
+    {
+      "language": "Arabic",
+      "fluency": "Native Speaker"
+    }
+  ],
+  "work": [
+    {
+      "name": "Foothill Technology Solutions, LLC.",
+      "position": "Software Engineer",
+      "url": "https://www.linkedin.com/company/17977801",
+      "startDate": "2021-06-01"
+    },
+    {
+      "name": "Foothill Technology Solutions, LLC.",
+      "position": "Software Engineering Intern",
+      "url": "https://www.linkedin.com/company/17977801",
+      "startDate": "2021-01-01",
+      "endDate": "2021-04-30"
+    }
+  ],
+  "projects": [
+    {
+      "name": "visual-filter",
+      "startDate": "2021-02-28",
+      "summary": "🕵️‍♂️ A headless unopinionated advanced visual filtering component for Vue 2 and 3",
+      "url": "https://github.com/obadakhalili/vue-visual-filter"
+    },
+    {
+      "name": "ERML",
+      "startDate": "2021-01-29",
+      "summary": "🔷 An organization that namespaces an array of tools targeted towards the SQL community, trying to fulfill a vision where you can visualize your database's ERD and RM, and generate SQL schema code, all from a single source",
+      "url": "https://erml.netlify.app/"
+    },
+    {
+      "name": "QuizLab",
+      "startDate": "2020-06-30",
+      "endDate": "2020-08-31",
+      "summary": "📝 Full-fledged web application, for creating, sharing, attending, and reviewing quizzes",
+      "url": "https://github.com/obadakhalili/QuizLab"
+    },
+    {
+      "name": "House Price Prediction Model and API",
+      "startDate": "2021-12-18",
+      "endDate": "2021-12-22",
+      "summary": "A take on House Price Prediction Kaggle problem",
+      "url": "https://github.com/obadakhalili/House-Price-Prediction"
+    },
+    {
+      "name": "ExpoTwitt",
+      "startDate": "2021-11-27",
+      "endDate": "2021-12-14",
+      "summary": "Exploratory spatio-temporal analysis of Twitter Stream",
+      "url": "https://github.com/obadakhalili/ExpoTwitt"
+    },
+    {
+      "name": "The Knight's Tour",
+      "startDate": "2020-08-21",
+      "endDate": "2020-08-29",
+      "summary": "🐴 A visualization of Warnsdorff’s Algorithm for the Knights Tour problem",
+      "url": "https://github.com/obadakhalili/The-Knights-Tour"
+    },
+    {
+      "name": "MiTerpreter",
+      "startDate": "2020-06-16",
+      "endDate": "2020-06-29",
+      "summary": "⚙ A MIPS Interpreter made in JS",
+      "url": "https://github.com/obadakhalili/MiTerpreter"
+    },
+    {
+      "name": "Sprightly",
+      "startDate": "2020-06-22",
+      "summary": "💡 A very light-weight JS template engine made for ExpressJS",
+      "url": "https://github.com/obadakhalili/Sprightly"
+    }
+  ],
+  "education": [
+    {
+      "institution": "An Najah National University",
+      "url": "https://www.najah.edu/en/academic/undergraduate-programs/program/computer-science-apprenticeship-program/info-card/",
+      "area": "Computer Science",
+      "studyType": "Bachelor's degree",
+      "startDate": "2019-08-31",
+      "endDate": "2023-08-31",
+      "score": "3.75/4"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Winner of an honorable mention of the Algoexprt SWE Contest",
+      "date": "2020-10-31",
+      "awarder": "Clément Mihailescu",
+      "summary": "My project, The Knight's Tour, got chosen as an outstanding project out of 77 participating ones"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Article: K-means Clustering for Dummies",
+      "publisher": "Medium",
+      "releaseDate": "2021-05-22",
+      "url": "https://obada-khalili.medium.com/k-means-clustering-for-dummies-3c5c8282747e"
+    },
+    {
+      "name": "Talk: Understanding ERML",
+      "publisher": "PITS",
+      "releaseDate": "2021-11-27",
+      "url": "https://pits.ps/events/2021-11-27-state-of-the-art/"
+    }
+  ],
+  "interests": [
+    { "name": "Coding" },
+    { "name": "Running" },
+    { "name": "Football" },
+    { "name": "Watching Movies and TV-Shows" },
+    { "name": "Reading" }
+  ]
+}
